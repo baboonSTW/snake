@@ -1,0 +1,26 @@
+#interface{
+    margin: 40px auto;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    background-color: blanchedalmond;
+}
+.body{ 
+    position: absolute;
+    width: 19px;
+    height:19px;
+    /* background-color: rgb(230, 135, 59); */
+    border-radius: 6px;
+}
+#food{
+    position: absolute;
+    width: 19px;
+    height:19px;
+    /* background-color: rgb(78, 223, 114); */
+    border-radius: 6px;
+}
+#other{
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
